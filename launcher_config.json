@@ -1,0 +1,15 @@
+{
+  "PROJECT_NAME": "Frontline Project",
+  "SEASON_NAME": "Season 2: New World",
+  "LOGO_URL": "https://your-domain.com/new-logo.png",
+  "BG_IMAGE_URL": "https://your-domain.com/new-bg.jpg",
+  "ANNOUNCEMENTS": [
+    "ประกาศ: เซิร์ฟเวอร์จะปิดปรับปรุงเวลา 18.00 น.",
+    "กิจกรรมใหม่เริ่มแล้ว! ตรวจสอบได้ที่ Discord",
+    "ดาวน์โหลดมอดเวอร์ชันล่าสุด 1.0.1 ได้แล้ววันนี้"
+  ],
+  "RPC": {
+    "DETAILS": "เล่นอยู่บน Season 2",
+    "STATE": "กำลังฟาร์มของ"
+  }
+}
