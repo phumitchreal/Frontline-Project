@@ -1,15 +1,44 @@
 {
   "PROJECT_NAME": "Frontline Project",
-  "SEASON_NAME": "Season 1: UNLESS",
+  "SEASON_NAME": "Season 1: Initial",
+  "VERSION": "2.4.0",
+  "BUILD_SIG": "FL-2024-03-18-STABLE-X64",
+
+  "// UI_ASSETS": "เปลี่ยนรูปภาพต่างๆ ของแอป",
   "LOGO_URL": "https://raw.githubusercontent.com/phumitchreal/Frontline-Project/refs/heads/main/favicon.ico",
-  "BG_IMAGE_URL": "https://your-domain.com/new-bg.jpg",
+  "BG_IMAGE_URL": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?q=80&w=2000&auto=format&fit=crop",
+
+  "// ANNOUNCEMENTS": "ข้อความประกาศวิ่งด้านบน (ใส่กี่ข้อความก็ได้)",
   "ANNOUNCEMENTS": [
-    "ประกาศ: เซิร์ฟเวอร์จะปิดปรับปรุงเวลา 18.00 น.",
-    "กิจกรรมใหม่เริ่มแล้ว! ตรวจสอบได้ที่ Discord",
-    "ดาวน์โหลดมอดเวอร์ชันล่าสุด 1.0.1 ได้แล้ววันนี้"
+    "ยินดีต้อนรับสู่ FRONTLINE PROJECT - SEASON 1 เริ่มต้นขึ้นแล้ว!",
+    "ประกาศ: เซิร์ฟเวอร์จะปิดปรับปรุงทุกวันพุธ เวลา 12.00 น.",
+    "อย่าลืมเข้าร่วม DISCORD เพื่อรับข่าวสารและกิจกรรมพิเศษ",
+    "ดาวน์โหลด MODPACK เวอร์ชันล่าสุด 1.0.0 ได้แล้ววันนี้"
   ],
+
+  "// GAME_SETTINGS": "การตั้งค่าพื้นฐานของตัวเกม",
+  "MC_VERSION": "1.21.1",
+  "MODPACK_URL": "https://github.com/phumitchreal/Frontline-Project/raw/refs/heads/main/Unless%201.0.0.mrpack",
+  "DEFAULT_MAX_RAM": "4G",
+  "DEFAULT_MIN_RAM": "2G",
+
+  "// RPC_SETTINGS": "ตั้งค่าสิ่งที่โชว์ใน Discord ของผู้เล่น",
   "RPC": {
-    "DETAILS": "เล่นอยู่บน Season 2",
-    "STATE": "กำลังฟาร์มของ"
+    "DETAILS": "กำลังเล่นบน Frontline Server",
+    "STATE": "Season 1: The Beginning",
+    "LARGE_IMAGE_TEXT": "Frontline Project Official"
+  },
+
+  "// SOCIAL_LINKS": "ลิงก์ปุ่มกดต่างๆ",
+  "SOCIAL": {
+    "DISCORD": "https://discord.gg/frontline",
+    "WEBSITE": "https://frontline-project.com"
+  },
+
+  "// UI_MESSAGES": "ข้อความเล็กๆ ในแอป",
+  "MESSAGES": {
+    "STABLE_TAG": "STABLE-BUILD",
+    "READY_STATUS": "SYSTEM READY TO LAUNCH",
+    "MASTER_SERVER": "FRONTLINE MASTER SERVER"
   }
 }
