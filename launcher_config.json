@@ -4,37 +4,35 @@
   "VERSION": "2.4.0",
   "MC_VERSION": "1.21.1",
   "BUILD_SIG": "FL-2024-03-18-STABLE-X64",
+  "BUILD_HASH": "c1a2b3d4",
+  "SERVER_IP": "play.hypixel.net",
+  "DISCORD_CLIENT_ID": "1484021494026735767",
   "LOGO_URL": "https://raw.githubusercontent.com/phumitchreal/Frontline-Project/refs/heads/main/favicon.ico",
   "BG_IMAGE_URL": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?q=80&w=2000&auto=format&fit=crop",
   "MODPACK_URL": "https://github.com/phumitchreal/Frontline-Project/raw/refs/heads/main/Unless%201.0.0.mrpack",
   "DEFAULT_MAX_RAM": "4G",
   "DEFAULT_MIN_RAM": "2G",
+  
   "ANNOUNCEMENTS": [
-    "📢 ยินดีต้อนรับสู่ Frontline Project - Season 1 เริ่มขึ้นแล้ว!",
-    "🛠️ อัปเดต Modpack สำหรับเวอร์ชัน 1.0.0 เรียบร้อยแล้ว โปรดกดซิงค์มอดก่อนเริ่มเกม",
-    "💬 เข้าร่วม Discord ของเราเพื่อรับข่าวสารและกิจกรรมล่าสุด: discord.gg/frontline",
+    "📢 ยินดัต้อนรับสู่ Frontline Project - Season 1 เริ่มขึ้นแล้ว!",
+    "🚀 อัปเดต Modpack สำหรับเวอร์ชัน 1.0.0 เรียบร้อยแล้ว โปรดซิงค์มอดก่อนเล่น",
     "🛡️ ระบบรักษาความปลอดภัย Frontline Anti-Cheat เปิดใช้งานแล้ว",
-    "🎉 ขอบคุณผู้เล่นทุกท่านที่ร่วมเดินทางไปกับเราใน Season แรกนี้!"
+    "💬 เข้าร่วม Discord ของเราเพื่อรับข่าวสารและกิจกรรมล่าสุด: discord.gg/frontline"
   ],
+
   "MESSAGES": {
-    "READY_STATUS": "พร้อมสำหรับการรบ (Ready)",
+    "READY_STATUS": "พร้อมสำหรับการตรวจการ (Ready)",
     "MASTER_SERVER": "Frontline Master Server (Asia)",
-    "SYSTEM_STATUS": "Operational (แรงสุดขีด)",
+    "SYSTEM_STATUS": "Operational (ปกติ)",
     "LATENCY_LABEL": "NETWORK LATENCY",
     "LATENCY": "24ms - Optimal Connection",
     "STABLE_TAG": "STABLE"
   },
+
   "RPC": {
     "DETAILS": "เล่นบน Frontline Server",
     "STATE": "Season 1: The Winter Archive",
     "LARGE_IMAGE_KEY": "logo2",
     "LARGE_IMAGE_TEXT": "Frontline Project"
-  },
-  "SOCIAL": {
-    "DISCORD": "https://discord.gg/frontline",
-    "WEBSITE": "https://frontline-project.com",
-    "TWITTER": "https://twitter.com/frontline",
-    "YOUTUBE": "https://youtube.com/frontline",
-    "INSTAGRAM": "https://instagram.com/frontline"
   }
 }
