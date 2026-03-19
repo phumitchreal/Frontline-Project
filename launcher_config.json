@@ -1,6 +1,6 @@
 {
   "PROJECT_NAME": "Frontline Project",
-  "SEASON_NAME": "Season 1: The Winter Archive",
+  "SEASON_NAME": "EX1 : Unless",
   "VERSION": "2.4.0",
   "MC_VERSION": "1.21.1",
   "BUILD_SIG": "FL-2024-03-18-STABLE-X64",
@@ -31,7 +31,7 @@
 
   "RPC": {
     "DETAILS": "เล่นบน Frontline Server",
-    "STATE": "Frontline EX1 : Unless",
+    "STATE": "EX1 : Unless",
     "LARGE_IMAGE_KEY": "logo2",
     "LARGE_IMAGE_TEXT": "Frontline Project"
   }
